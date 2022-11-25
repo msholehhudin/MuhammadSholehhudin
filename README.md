@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuhammadSholehhudin
 - 👀 I’m interested in Programming and Designing
-- 🌱 I’m currently learning about C# and VB.Net Programming after i worked up with Codeigniter and Laravel, i wonder to dekstop Application
+- 🌱 I’m currently learning about Javascript and the libraries, C# and VB.Net Programming after i worked up with Codeigniter and Laravel, i wonder to dekstop Application
 - 💞️ I’m looking to collaborate on Programming
 - 📫 How to reach me, you can contact me by email msholehhudin.ms@gmail.com
 
